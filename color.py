@@ -1,0 +1,12 @@
+class Color:
+    BLACK = (0, 0, 0)
+    GREY = (180, 180, 180)
+    DARK_GREY = (120, 120, 120)
+    BLACK = (0, 0, 0)
+    RED = (200, 0, 0)
+    GREEN = (0, 200, 0)
+    BLUE = (0, 0, 200)
+    PURPLE = (180, 0, 180)
+    DARK_RED = (120, 0, 0)
+    BLUE_GREY = (84, 134, 132)
+    DARK_PURPLE = (100, 0, 100)
